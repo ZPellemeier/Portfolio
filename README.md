@@ -12,5 +12,5 @@ This portfolio showcases my work as a data analyst, highlighting various project
 Clone this repository and open `index.html` in your browser.
 
 ## Contact
-Email: your.email@example.com
-LinkedIn: your-linkedin-url
+Email: Redacted
+LinkedIn: www.linkedin.com/in/
